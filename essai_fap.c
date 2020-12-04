@@ -4,6 +4,7 @@
 
 #define TAILLE_BUFFER 128
 
+//afficher l'aide
 void aide()
 {
   fprintf(stderr,"Aide :\n");
